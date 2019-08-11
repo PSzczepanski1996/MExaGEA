@@ -1,0 +1,272 @@
+
+Start-Date: 2016-10-11  14:47:37
+Commandline: apt-get install build-essential gcc dpkg-dev libxml2-dev
+Install: libdpkg-perl:i386 (1.17.5ubuntu5, automatic), xz-utils:i386 (5.1.1alpha+20120614-2ubuntu2, automatic), manpages:i386 (3.54-1ubuntu1, automatic), libmpfr4:i386 (3.1.2-1, automatic), libfile-fcntllock-perl:i386 (0.14-2build1, automatic), make:i386 (3.81-8.2ubuntu3, automatic), libxml2:i386 (2.9.1+dfsg1-3ubuntu4, automatic), libgmp10:i386 (5.1.3+dfsg-1ubuntu1, automatic), libcloog-isl4:i386 (0.18.2-1, automatic), fakeroot:i386 (1.20-3ubuntu2, automatic), libgcc-4.8-dev:i386 (4.8.2-19ubuntu1, automatic), dpkg-dev:i386 (1.17.5ubuntu5), libalgorithm-merge-perl:i386 (0.08-2, automatic), libquadmath0:i386 (4.8.2-19ubuntu1, automatic), libstdc++-4.8-dev:i386 (4.8.2-19ubuntu1, automatic), libxml2-dev:i386 (2.9.1+dfsg1-3ubuntu4), libc6-dev:i386 (2.19-0ubuntu6, automatic), build-essential:i386 (11.6ubuntu6), g++-4.8:i386 (4.8.2-19ubuntu1, automatic), libatomic1:i386 (4.8.2-19ubuntu1, automatic), patch:i386 (2.7.1-4, automatic), libalgorithm-diff-perl:i386 (1.19.02-3, automatic), g++:i386 (4.8.2-1ubuntu6, automatic), xml-core:i386 (0.13+nmu2, automatic), libtimedate-perl:i386 (2.3000-1, automatic), libitm1:i386 (4.8.2-19ubuntu1, automatic), libisl10:i386 (0.12.2-1, automatic), libasan0:i386 (4.8.2-19ubuntu1, automatic), sgml-base:i386 (1.26+nmu4ubuntu1, automatic), libc-dev-bin:i386 (2.19-0ubuntu6, automatic), gcc:i386 (4.8.2-1ubuntu6), linux-libc-dev:i386 (3.13.0-24.46, automatic), libmpc3:i386 (1.0.1-1ubuntu1, automatic), cpp:i386 (4.8.2-1ubuntu6, automatic), libfakeroot:i386 (1.20-3ubuntu2, automatic), libgomp1:i386 (4.8.2-19ubuntu1, automatic), binutils:i386 (2.24-5ubuntu3, automatic), manpages-dev:i386 (3.54-1ubuntu1, automatic), cpp-4.8:i386 (4.8.2-19ubuntu1, automatic), gcc-4.8:i386 (4.8.2-19ubuntu1, automatic), libalgorithm-diff-xs-perl:i386 (0.04-2build4, automatic)
+End-Date: 2016-10-11  14:47:46
+
+Start-Date: 2016-10-11  14:49:00
+Commandline: apt-get install flex
+Install: m4:i386 (1.4.17-2ubuntu1, automatic), libsigsegv2:i386 (2.10-2, automatic), libfl-dev:i386 (2.5.35-10.1ubuntu2, automatic), flex:i386 (2.5.35-10.1ubuntu2)
+End-Date: 2016-10-11  14:49:00
+
+Start-Date: 2016-10-11  14:49:17
+Commandline: apt-get install bison
+Install: libbison-dev:i386 (3.0.2.dfsg-2, automatic), bison:i386 (3.0.2.dfsg-2)
+End-Date: 2016-10-11  14:49:17
+
+Start-Date: 2016-10-11  14:49:45
+Commandline: apt-get install libx11-dev
+Install: libxdmcp-dev:i386 (1.1.1-1, automatic), libx11-data:i386 (1.6.2-1ubuntu2, automatic), libxdmcp6:i386 (1.1.1-1, automatic), libx11-6:i386 (1.6.2-1ubuntu2, automatic), libpthread-stubs0-dev:i386 (0.3-4, automatic), x11proto-input-dev:i386 (2.3-1, automatic), libx11-dev:i386 (1.6.2-1ubuntu2), libxau6:i386 (1.0.8-1, automatic), xorg-sgml-doctools:i386 (1.11-1, automatic), libx11-doc:i386 (1.6.2-1ubuntu2, automatic), xtrans-dev:i386 (1.3.2-1, automatic), x11proto-core-dev:i386 (7.0.24-1, automatic), libxau-dev:i386 (1.0.8-1, automatic), libxcb1-dev:i386 (1.10-2ubuntu1, automatic), libxcb1:i386 (1.10-2ubuntu1, automatic), x11proto-kb-dev:i386 (1.0.6-2, automatic)
+End-Date: 2016-10-11  14:49:47
+
+Start-Date: 2016-10-11  14:56:13
+Commandline: apt-get install libfreetype6 libfreetype6-dev
+Install: libfreetype6-dev:i386 (2.5.2-1ubuntu2), libpng12-dev:i386 (1.2.50-1ubuntu2, automatic), zlib1g-dev:i386 (1.2.8.dfsg-1ubuntu1, automatic), libfreetype6:i386 (2.5.2-1ubuntu2)
+End-Date: 2016-10-11  14:56:13
+
+Start-Date: 2016-10-11  15:00:16
+Commandline: apt-get install gettext libxrender1 libxrender-dev libxslt1.1 libxslt1-dev libgnutls26 libgnutls-dev libjpeg62 libjpeg-dev libasound2 libasound-dev
+Install: libp11-kit-dev:i386 (0.20.2-2ubuntu2, automatic), libgssapi-krb5-2:i386 (1.12+dfsg-2ubuntu4, automatic), libglib2.0-data:i386 (2.40.0-2, automatic), gettext:i386 (0.18.3.1-1ubuntu2), libgcrypt11-dev:i386 (1.5.3-2ubuntu4, automatic), libkrb5-3:i386 (1.12+dfsg-2ubuntu4, automatic), x11proto-render-dev:i386 (0.11.1-2, automatic), libsasl2-2:i386 (2.1.25.dfsg1-17build1, automatic), krb5-locales:i386 (1.12+dfsg-2ubuntu4, automatic), libcroco3:i386 (0.6.8-2ubuntu1, automatic), libk5crypto3:i386 (1.12+dfsg-2ubuntu4, automatic), libxrender1:i386 (0.9.8-1), libkeyutils1:i386 (1.5.6-1, automatic), libkrb5-26-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), libjpeg-turbo8-dev:i386 (1.3.0-0ubuntu2, automatic), libhcrypto4-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), libcurl3:i386 (7.35.0-1ubuntu2, automatic), libasn1-8-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), libxslt1.1:i386 (1.1.28-2build1), libgettextpo0:i386 (0.18.3.1-1ubuntu2, automatic), libsasl2-modules-db:i386 (2.1.25.dfsg1-17build1, automatic), libkrb5support0:i386 (1.12+dfsg-2ubuntu4, automatic), libunistring0:i386 (0.9.3-5ubuntu3, automatic), curl:i386 (7.35.0-1ubuntu2, automatic), libjpeg-dev:i386 (8c-2ubuntu8), libgettextpo-dev:i386 (0.18.3.1-1ubuntu2, automatic), libjpeg8:i386 (8c-2ubuntu8, automatic), libglib2.0-0:i386 (2.40.0-2, automatic), libldap-2.4-2:i386 (2.4.31-1+nmu2ubuntu8, automatic), libxrender-dev:i386 (0.9.8-1), openssl:i386 (1.0.1f-1ubuntu2, automatic), libsasl2-modules:i386 (2.1.25.dfsg1-17build1, automatic), libasound2:i386 (1.0.27.2-3ubuntu7), libjpeg-turbo8:i386 (1.3.0-0ubuntu2, automatic), libgnutls-dev:i386 (2.12.23-12ubuntu2), libroken18-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), libtasn1-6-dev:i386 (3.4-3, automatic), shared-mime-info:i386 (1.2-0ubuntu3, automatic), libjpeg62:i386 (6b1-4ubuntu1), libjpeg8-dev:i386 (8c-2ubuntu8, automatic), libasound2-dev:i386 (1.0.27.2-3ubuntu7), libhx509-5-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), libheimbase1-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), libgssapi3-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), ca-certificates:i386 (20130906ubuntu2, automatic), libgnutlsxx27:i386 (2.12.23-12ubuntu2, automatic), gettext-base:i386 (0.18.3.1-1ubuntu2, automatic), libasprintf-dev:i386 (0.18.3.1-1ubuntu2, automatic), libasprintf0c2:i386 (0.18.3.1-1ubuntu2, automatic), libasound2-data:i386 (1.0.27.2-3ubuntu7, automatic), libxslt1-dev:i386 (1.1.28-2build1), libidn11:i386 (1.28-1ubuntu2, automatic), libwind0-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), librtmp0:i386 (2.4+20121230.gitdf6c518-1, automatic), libgpg-error-dev:i386 (1.12-0.2ubuntu1, automatic), libheimntlm0-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic)
+End-Date: 2016-10-11  15:00:29
+
+Start-Date: 2016-10-11  15:11:24
+Commandline: apt-get install software-properties-common
+Install: python3-pycurl:i386 (7.19.3-0ubuntu3, automatic), python3-dbus:i386 (1.2.0-2build2, automatic), python3-software-properties:i386 (0.92.36, automatic), libgirepository-1.0-1:i386 (1.40.0-1, automatic), python-apt-common:i386 (0.9.3.5, automatic), iso-codes:i386 (3.52-1, automatic), libcurl3-gnutls:i386 (7.35.0-1ubuntu2, automatic), gir1.2-glib-2.0:i386 (1.40.0-1, automatic), libdbus-glib-1-2:i386 (0.100.2-1, automatic), python3-apt:i386 (0.9.3.5, automatic), software-properties-common:i386 (0.92.36), unattended-upgrades:i386 (0.82.1ubuntu2, automatic), python3-gi:i386 (3.12.0-1, automatic)
+End-Date: 2016-10-11  15:11:28
+
+Start-Date: 2016-10-11  15:13:58
+Commandline: apt-get install wget
+Install: wget:i386 (1.15-1ubuntu1)
+End-Date: 2016-10-11  15:13:58
+
+Start-Date: 2016-10-11  15:22:24
+Commandline: apt-get build-dep wine
+Install: libdatrie1:i386 (0.2.8-1, automatic), libopenal1:i386 (1.14-4ubuntu1, automatic), texlive-fonts-recommended:i386 (2013.20140215-1, automatic), libfontconfig1:i386 (2.11.0-0ubuntu4, automatic), debhelper:i386 (9.20131227ubuntu1), libx11-xcb1:i386 (1.6.2-1ubuntu2, automatic), libflac8:i386 (1.3.0-2, automatic), dh-apparmor:i386 (2.8.95~2430-0ubuntu5, automatic), libpython2.7-minimal:i386 (2.7.6-8, automatic), libsgmls-perl:i386 (1.03ii-32, automatic), libsm6:i386 (1.2.1-2, automatic), libavahi-client-dev:i386 (0.6.31-4ubuntu1, automatic), libgstreamer0.10-0:i386 (0.10.36-1.2ubuntu3, automatic), x11proto-gl-dev:i386 (1.4.17-1, automatic), libpaper-utils:i386 (1.1.24+nmu2ubuntu3, automatic), libsndfile1:i386 (1.0.25-7ubuntu2, automatic), libjs-jquery:i386 (1.7.2+dfsg-2ubuntu1, automatic), libxcb-present-dev:i386 (1.10-2ubuntu1, automatic), libkpathsea6:i386 (2013.20130729.30972-2build3, automatic), libosp5:i386 (1.5.2-10ubuntu3, automatic), libxext-dev:i386 (1.3.2-1, automatic), libxcomposite-dev:i386 (0.4.4-1), docbook-to-man:i386 (2.0.0-31), libv4l-0:i386 (1.0.1-1, automatic), libharfbuzz0b:i386 (0.9.27-1, automatic), python2.7:i386 (2.7.6-8, automatic), libkadm5clnt-mit9:i386 (1.12+dfsg-2ubuntu4, automatic), libfontconfig1-dev:i386 (2.11.0-0ubuntu4), x11proto-xf86vidmode-dev:i386 (2.3.1-2, automatic), libxcb-xfixes0-dev:i386 (1.10-2ubuntu1, automatic), libxdamage-dev:i386 (1.1.4-1ubuntu1, automatic), libusb-1.0-0-dev:i386 (1.0.17-1ubuntu2, automatic), libpython2.7-stdlib:i386 (2.7.6-8, automatic), libxcb-render0:i386 (1.10-2ubuntu1, automatic), libpcre3-dev:i386 (8.31-2ubuntu2, automatic), opencl-headers:i386 (1.2-2013.10.23-1, automatic), libxcb-glx0:i386 (1.10-2ubuntu1, automatic), libsane:i386 (1.0.23-3ubuntu3, automatic), libasyncns0:i386 (0.8-4ubuntu2, automatic), libgraphite2-3:i386 (1.2.4-1ubuntu1, automatic), libglapi-mesa:i386 (10.1.0-4ubuntu5, automatic), libcupsimage2:i386 (1.7.2-0ubuntu1, automatic), libv4lconvert0:i386 (1.0.1-1, automatic), libexpat1-dev:i386 (2.1.0-4ubuntu1, automatic), libxcb-xfixes0:i386 (1.10-2ubuntu1, automatic), libglib2.0-dev:i386 (2.40.0-2, automatic), libxcb-shape0:i386 (1.10-2ubuntu1, automatic), x11proto-fixes-dev:i386 (5.0-2ubuntu2, automatic), libncurses5-dev:i386 (5.9+20140118-1ubuntu1), libijs-0.35:i386 (0.35-8build1, automatic), libexif12:i386 (0.6.21-1ubuntu1, automatic), libxt6:i386 (1.1.4-1, automatic), krb5-multidev:i386 (1.12+dfsg-2ubuntu4, automatic), libgstreamer-plugins-base0.10-dev:i386 (0.10.36-1.1ubuntu2), libxcb-randr0:i386 (1.10-2ubuntu1, automatic), bsdmainutils:i386 (9.0.5ubuntu1, automatic), libsane-common:i386 (1.0.23-3ubuntu3, automatic), libcapi20-dev:i386 (3.25+dfsg1-3.3ubuntu2), python-minimal:i386 (2.7.5-5ubuntu3, automatic), libxcomposite1:i386 (0.4.4-1, automatic), libcupsfilters1:i386 (1.0.52-0ubuntu1, automatic), x11proto-xinerama-dev:i386 (1.2.1-2, automatic), libieee1284-3-dev:i386 (0.2.11-12, automatic), unixodbc:i386 (2.2.14p2-5ubuntu5, automatic), libxt-dev:i386 (1.1.4-1), libxxf86vm1:i386 (1.1.3-1, automatic), libptexenc1:i386 (2013.20130729.30972-2build3, automatic), libgd3:i386 (2.1.0-3, automatic), libsp1c2:i386 (1.3.4-1.2.1-47.3ubuntu1, automatic), libdrm-intel1:i386 (2.4.52-1, automatic), libpixman-1-0:i386 (0.30.2-2ubuntu1, automatic), libgstreamer-plugins-base0.10-0:i386 (0.10.36-1.1ubuntu2, automatic), libkrb5-dev:i386 (1.12+dfsg-2ubuntu4, automatic), libogg0:i386 (1.3.1-1ubuntu1, automatic), oss4-dev:i386 (4.2-build2007-2.1), man-db:i386 (2.6.7.1-1, automatic), libgstreamer0.10-dev:i386 (0.10.36-1.2ubuntu3, automatic), libmpg123-0:i386 (1.16.0-1ubuntu1, automatic), libodbc1:i386 (2.2.14p2-5ubuntu5, automatic), gir1.2-gst-plugins-base-0.10:i386 (0.10.36-1.1ubuntu2, automatic), texlive-binaries:i386 (2013.20130729.30972-2build3, automatic), liborc-0.4-0:i386 (0.4.18-1ubuntu1, automatic), libxmu6:i386 (1.1.1-1, automatic), sgmlspl:i386 (1.03ii-32, automatic), libtiffxx5:i386 (4.0.3-7, automatic), fontconfig:i386 (2.11.0-0ubuntu4, automatic), libxcb-shm0:i386 (1.10-2ubuntu1, automatic), libgphoto2-dev:i386 (2.5.3.1-1ubuntu2), sp:i386 (1.3.4-1.2.1-47.3ubuntu1, automatic), libpcap0.8:i386 (1.5.3-2, automatic), gir1.2-freedesktop:i386 (1.40.0-1, automatic), libxinerama1:i386 (1.1.3-1, automatic), libxcb-dri3-0:i386 (1.10-2ubuntu1, automatic), libtiff5-dev:i386 (4.0.3-7, automatic), libjbig2dec0:i386 (0.11+20120125-1ubuntu1, automatic), libc6-dbg:i386 (2.19-0ubuntu6, automatic), ocl-icd-opencl-dev:i386 (2.1.3-4), libpangoft2-1.0-0:i386 (1.36.3-1ubuntu1, automatic), texlive-latex-recommended:i386 (2013.20140215-1, automatic), libdrm-radeon1:i386 (2.4.52-1, automatic), libgsm1-dev:i386 (1.0.13-4), libspiro0:i386 (20071029-8ubuntu1, automatic), libglu1-mesa-dev:i386 (9.0.0-2), libosmesa6:i386 (10.1.0-4ubuntu5, automatic), sgml-data:i386 (2.0.9-1, automatic), libjbig0:i386 (2.0-2ubuntu4, automatic), libdrm-dev:i386 (2.4.52-1, automatic), libxi-dev:i386 (1.7.1.901-1ubuntu1), prelink:i386 (0.0.20090925-8), libdbus-1-dev:i386 (1.6.18-0ubuntu4), x11proto-composite-dev:i386 (0.4.2-2, automatic), ocl-icd-libopencl1:i386 (2.1.3-4, automatic), libtinfo-dev:i386 (5.9+20140118-1ubuntu1, automatic), libxfixes-dev:i386 (5.0.1-1ubuntu1, automatic), libpcap0.8-dev:i386 (1.5.3-2), libmpg123-dev:i386 (1.16.0-1ubuntu1), docbook-xsl:i386 (1.78.1+dfsg-1), libpython-stdlib:i386 (2.7.5-5ubuntu3, automatic), libwrap0:i386 (7.6.q-25, automatic), libavahi-common-data:i386 (0.6.31-4ubuntu1, automatic), libxcb-sync-dev:i386 (1.10-2ubuntu1, automatic), libgl1-mesa-dev:i386 (10.1.0-4ubuntu5), libldap2-dev:i386 (2.4.31-1+nmu2ubuntu8), libxrandr2:i386 (1.4.2-1, automatic), libavahi-client3:i386 (0.6.31-4ubuntu1, automatic), x11-common:i386 (7.7+1ubuntu8, automatic), texlive-base:i386 (2013.20140215-1, automatic), texlive-latex-base:i386 (2013.20140215-1, automatic), libxcb-dri3-dev:i386 (1.10-2ubuntu1, automatic), comerr-dev:i386 (2.1-1.42.9-3ubuntu1, automatic), fontconfig-config:i386 (2.11.0-0ubuntu4, automatic), unixodbc-dev:i386 (2.2.14p2-5ubuntu5), x11proto-dri2-dev:i386 (2.8-2, automatic), po-debconf:i386 (1.0.16+nmu2ubuntu1, automatic), liblzma-dev:i386 (5.1.1alpha+20120614-2ubuntu2, automatic), odbcinst1debian2:i386 (2.2.14p2-5ubuntu5, automatic), libgif-dev:i386 (4.1.6-11), libopenal-dev:i386 (1.14-4ubuntu1), libosmesa6-dev:i386 (10.1.0-4ubuntu5), libxxf86vm-dev:i386 (1.1.3-1, automatic), libsm-dev:i386 (1.2.1-2, automatic), libxcb-dri2-0:i386 (1.10-2ubuntu1, automatic), lynx:i386 (2.8.8pre4-1, automatic), fontforge-common:i386 (20120731.b-5, automatic), libgs9:i386 (9.10~dfsg-0ubuntu10, automatic), libxpm4:i386 (3.5.10-1, automatic), libxcb-render0-dev:i386 (1.10-2ubuntu1, automatic), docbook-utils:i386 (0.6.14-3ubuntu1), libgssrpc4:i386 (1.12+dfsg-2ubuntu4, automatic), libgphoto2-6:i386 (2.5.3.1-1ubuntu2, automatic), libopenal-data:i386 (1.14-4ubuntu1, automatic), libpango-1.0-0:i386 (1.36.3-1ubuntu1, automatic), libxcb-randr0-dev:i386 (1.10-2ubuntu1, automatic), libxcb-sync1:i386 (1.10-2ubuntu1, automatic), libxfixes3:i386 (5.0.1-1ubuntu1, automatic), libavahi-common3:i386 (0.6.31-4ubuntu1, automatic), libdrm-nouveau2:i386 (2.4.52-1, automatic), jadetex:i386 (3.13-14, automatic), liblcms2-2:i386 (2.5-0ubuntu4, automatic), x11proto-damage-dev:i386 (1.2.1-2, automatic), libkadm5srv-mit9:i386 (1.12+dfsg-2ubuntu4, automatic), libvorbis0a:i386 (1.3.2-1.3ubuntu1, automatic), libxshmfence-dev:i386 (1.1-2, automatic), libglib2.0-bin:i386 (2.40.0-2, automatic), tex-common:i386 (4.04, automatic), x11proto-xext-dev:i386 (7.3.0-1, automatic), libxext6:i386 (1.3.2-1, automatic), libxft2:i386 (2.3.1-2, automatic), libcups2-dev:i386 (1.7.2-0ubuntu1), libgs9-common:i386 (9.10~dfsg-0ubuntu10, automatic), libltdl7:i386 (2.4.2-1.7ubuntu1, automatic), libusb-1.0-0:i386 (1.0.17-1ubuntu2, automatic), libthai-data:i386 (0.1.20-3, automatic), libglu1-mesa:i386 (9.0.0-2, automatic), libieee1284-3:i386 (0.2.11-12, automatic), libkdb5-7:i386 (1.12+dfsg-2ubuntu4, automatic), libx11-xcb-dev:i386 (1.6.2-1ubuntu2, automatic), docbook:i386 (4.5-5.1ubuntu1, automatic), desktop-file-utils:i386 (0.22-1ubuntu1), libxaw7:i386 (1.0.12-1, automatic), gir1.2-gstreamer-0.10:i386 (0.10.36-1.2ubuntu3, automatic), libxcb-glx0-dev:i386 (1.10-2ubuntu1, automatic), libxcb-dri2-0-dev:i386 (1.10-2ubuntu1, automatic), libicu52:i386 (52.1-3, automatic), libpulse0:i386 (4.0-0ubuntu11, automatic), libice6:i386 (1.0.8-2, automatic), texlive-generic-recommended:i386 (2013.20140215-1, automatic), x11proto-randr-dev:i386 (1.4.0+git20120101.is.really.1.4.0-0ubuntu1, automatic), libxcb-present0:i386 (1.10-2ubuntu1, automatic), libpciaccess0:i386 (0.13.2-1, automatic), python2.7-minimal:i386 (2.7.6-8, automatic), libostyle1c2:i386 (1.4devel1-21, automatic), libxcursor-dev:i386 (1.1.14-1), poppler-data:i386 (0.4.6-4, automatic), tipa:i386 (1.3-19, automatic), acl:i386 (2.2.52-1, automatic), libxshmfence1:i386 (1.1-2, automatic), libgif4:i386 (4.1.6-11, automatic), libcups2:i386 (1.7.2-0ubuntu1, automatic), libv4l2rds0:i386 (1.0.1-1, automatic), libtiff5:i386 (4.0.3-7, automatic), libpoppler44:i386 (0.24.5-2ubuntu4, automatic), valgrind:i386 (3.10~20140411-0ubuntu1), libpangocairo-1.0-0:i386 (1.36.3-1ubuntu1, automatic), libpython2.7:i386 (2.7.6-8, automatic), pkg-config:i386 (0.26-1ubuntu4, automatic), libcapi20-3:i386 (3.25+dfsg1-3.3ubuntu2, automatic), libpcrecpp0:i386 (8.31-2ubuntu2, automatic), groff-base:i386 (1.22.2-5, automatic), libxdamage1:i386 (1.1.4-1ubuntu1, automatic), libxcursor1:i386 (1.1.14-1, automatic), autotools-dev:i386 (20130810.1), liblcms2-dev:i386 (2.5-0ubuntu4), libjbig-dev:i386 (2.0-2ubuntu4, automatic), luatex:i386 (0.76.0-3ubuntu1, automatic), python:i386 (2.7.5-5ubuntu3, automatic), fontforge:i386 (20120731.b-5), libuninameslist0:i386 (0.3.20130501-3, automatic), libxinerama-dev:i386 (1.1.3-1), mesa-common-dev:i386 (10.1.0-4ubuntu5, automatic), intltool-debian:i386 (0.35.0+20060710.1, automatic), libv4l-dev:i386 (1.0.1-1, automatic), libsane-dev:i386 (1.0.23-3ubuntu3), libltdl-dev:i386 (2.4.2-1.7ubuntu1, automatic), libice-dev:i386 (1.0.8-2, automatic), libvorbisenc2:i386 (1.3.2-1.3ubuntu1, automatic), libgphoto2-port10:i386 (2.5.3.1-1ubuntu2, automatic), openjade:i386 (1.4devel1-21, automatic), libavahi-common-dev:i386 (0.6.31-4ubuntu1, automatic), libpipeline1:i386 (1.3.0-1, automatic), lynx-cur:i386 (2.8.8pre4-1, automatic), libpulse-mainloop-glib0:i386 (4.0-0ubuntu11, automatic), libpaper1:i386 (1.1.24+nmu2ubuntu3, automatic), odbcinst:i386 (2.2.14p2-5ubuntu5, automatic), libgdraw4:i386 (20120731.b-5, automatic), execstack:i386 (0.0.20090925-8, automatic), libpangoxft-1.0-0:i386 (1.36.3-1ubuntu1, automatic), libelfg0:i386 (0.8.13-5, automatic), libexif-dev:i386 (0.6.21-1ubuntu1, automatic), libgsm1:i386 (1.0.13-4, automatic), libcairo2:i386 (1.13.0~20140204-0ubuntu1, automatic), docbook-dsssl:i386 (1.79-7ubuntu1, automatic), libthai0:i386 (0.1.20-3, automatic), libpulse-dev:i386 (4.0-0ubuntu11), libxi6:i386 (1.7.1.901-1ubuntu1, automatic), libxrandr-dev:i386 (1.4.2-1), libxcb-shape0-dev:i386 (1.10-2ubuntu1, automatic), libvpx1:i386 (1.3.0-2, automatic), libgl1-mesa-glx:i386 (10.1.0-4ubuntu5, automatic), libfontforge1:i386 (20120731.b-5, automatic), xdg-utils:i386 (1.1.0~rc1-2ubuntu7, automatic), fonts-dejavu-core:i386 (2.34-1ubuntu1, automatic)
+End-Date: 2016-10-11  15:23:39
+
+Start-Date: 2016-10-11  18:28:18
+Commandline: apt-get install winbind
+Install: python-ntdb:i386 (1.0-2ubuntu1, automatic), python-ldb:i386 (1.1.16-1, automatic), libfile-copy-recursive-perl:i386 (0.38-1, automatic), libldb1:i386 (1.1.16-1, automatic), libtdb1:i386 (1.2.12-1, automatic), samba:i386 (4.1.6+dfsg-1ubuntu2, automatic), samba-common-bin:i386 (4.1.6+dfsg-1ubuntu2, automatic), python-talloc:i386 (2.1.0-1, automatic), winbind:i386 (4.1.6+dfsg-1ubuntu2), libtalloc2:i386 (2.1.0-1, automatic), samba-common:i386 (4.1.6+dfsg-1ubuntu2, automatic), libtevent0:i386 (0.9.19-1, automatic), python-samba:i386 (4.1.6+dfsg-1ubuntu2, automatic), tdb-tools:i386 (1.2.12-1, automatic), libkdc2-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), samba-vfs-modules:i386 (4.1.6+dfsg-1ubuntu2, automatic), python-tdb:i386 (1.2.12-1, automatic), samba-dsdb-modules:i386 (4.1.6+dfsg-1ubuntu2, automatic), libhdb9-heimdal:i386 (1.6~git20131207+dfsg-1ubuntu1, automatic), python-crypto:i386 (2.6.1-4build1, automatic), libaio1:i386 (0.3.109-4, automatic), update-inetd:i386 (4.43, automatic), samba-libs:i386 (4.1.6+dfsg-1ubuntu2, automatic), libntdb1:i386 (1.0-2ubuntu1, automatic), python-dnspython:i386 (1.11.1-1build1, automatic), libwbclient0:i386 (4.1.6+dfsg-1ubuntu2, automatic), attr:i386 (2.4.47-1ubuntu1, automatic)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2016-10-11  18:28:26
+
+Start-Date: 2016-10-11  18:29:02
+Commandline: apt-get -f install
+End-Date: 2016-10-11  18:29:03
+
+Start-Date: 2016-10-11  18:38:08
+Commandline: apt-get purge gcc
+Purge: build-essential:i386 (11.6ubuntu6), g++:i386 (4.8.2-1ubuntu6), gcc:i386 (4.8.2-1ubuntu6)
+End-Date: 2016-10-11  18:38:09
+
+Start-Date: 2016-10-11  18:38:57
+Commandline: apt-get autoremove
+Remove: libstdc++-4.8-dev:i386 (4.8.2-19ubuntu1), g++-4.8:i386 (4.8.2-19ubuntu1)
+End-Date: 2016-10-11  18:38:58
+
+Start-Date: 2016-10-11  18:41:06
+Commandline: apt-get purge autotools-dev
+Purge: autotools-dev:i386 (20130810.1)
+End-Date: 2016-10-11  18:41:06
+
+Start-Date: 2016-10-11  18:41:37
+Commandline: apt-get purge logrotate
+Purge: logrotate:i386 (3.8.7-1ubuntu1)
+End-Date: 2016-10-11  18:41:38
+
+Start-Date: 2016-10-11  18:43:17
+Commandline: apt-get purge unixodbc-dev x11proto-core-dev x11proto-composite-dev x11proto-damage-dev x11proto-dri2-dev x11proto-fixes-dev x11proto-gl-dev x11proto-input-dev x11proto-kb-dev x11proto-randr-dev x11proto-render-dev x11proto-xf86vidmode-dev x11proto-xext-dev x11proto-xinerama-dev
+Purge: x11proto-gl-dev:i386 (1.4.17-1), libxdmcp-dev:i386 (1.1.1-1), x11proto-render-dev:i386 (0.11.1-2), libxcb-present-dev:i386 (1.10-2ubuntu1), libxext-dev:i386 (1.3.2-1), libxcomposite-dev:i386 (0.4.4-1), x11proto-xf86vidmode-dev:i386 (2.3.1-2), libxcb-xfixes0-dev:i386 (1.10-2ubuntu1), libxdamage-dev:i386 (1.1.4-1ubuntu1), x11proto-fixes-dev:i386 (5.0-2ubuntu2), x11proto-xinerama-dev:i386 (1.2.1-2), libxt-dev:i386 (1.1.4-1), libglu1-mesa-dev:i386 (9.0.0-2), libxi-dev:i386 (1.7.1.901-1ubuntu1), x11proto-composite-dev:i386 (0.4.2-2), libxfixes-dev:i386 (5.0.1-1ubuntu1), libxcb-sync-dev:i386 (1.10-2ubuntu1), libgl1-mesa-dev:i386 (10.1.0-4ubuntu5), libxcb-dri3-dev:i386 (1.10-2ubuntu1), unixodbc-dev:i386 (2.2.14p2-5ubuntu5), x11proto-dri2-dev:i386 (2.8-2), libosmesa6-dev:i386 (10.1.0-4ubuntu5), libxxf86vm-dev:i386 (1.1.3-1), libsm-dev:i386 (1.2.1-2), x11proto-input-dev:i386 (2.3-1), libxcb-render0-dev:i386 (1.10-2ubuntu1), libxrender-dev:i386 (0.9.8-1), libxcb-randr0-dev:i386 (1.10-2ubuntu1), libx11-dev:i386 (1.6.2-1ubuntu2), x11proto-damage-dev:i386 (1.2.1-2), x11proto-xext-dev:i386 (7.3.0-1), libx11-xcb-dev:i386 (1.6.2-1ubuntu2), libxcb-glx0-dev:i386 (1.10-2ubuntu1), libxcb-dri2-0-dev:i386 (1.10-2ubuntu1), x11proto-randr-dev:i386 (1.4.0+git20120101.is.really.1.4.0-0ubuntu1), libxcursor-dev:i386 (1.1.14-1), x11proto-core-dev:i386 (7.0.24-1), libxinerama-dev:i386 (1.1.3-1), libxau-dev:i386 (1.0.8-1), mesa-common-dev:i386 (10.1.0-4ubuntu5), libice-dev:i386 (1.0.8-2), libxcb1-dev:i386 (1.10-2ubuntu1), libxrandr-dev:i386 (1.4.2-1), libxcb-shape0-dev:i386 (1.10-2ubuntu1), x11proto-kb-dev:i386 (1.0.6-2)
+End-Date: 2016-10-11  18:43:21
+
+Start-Date: 2016-10-11  18:44:49
+Commandline: apt-get purge zlib1g-dev:i386 xtrans-dev oss4-dev ocl-icd-opencl-dev:i386 manpages-dev manpages
+Purge: manpages:i386 (3.54-1ubuntu1), libfontconfig1-dev:i386 (2.11.0-0ubuntu4), libglib2.0-dev:i386 (2.40.0-2), libgstreamer-plugins-base0.10-dev:i386 (0.10.36-1.1ubuntu2), libfreetype6-dev:i386 (2.5.2-1ubuntu2), libpng12-dev:i386 (1.2.50-1ubuntu2), oss4-dev:i386 (4.2-build2007-2.1), libgstreamer0.10-dev:i386 (0.10.36-1.2ubuntu3), libtiff5-dev:i386 (4.0.3-7), ocl-icd-opencl-dev:i386 (2.1.3-4), zlib1g-dev:i386 (1.2.8.dfsg-1ubuntu1), libcups2-dev:i386 (1.7.2-0ubuntu1), libgnutls-dev:i386 (2.12.23-12ubuntu2), xtrans-dev:i386 (1.3.2-1), manpages-dev:i386 (3.54-1ubuntu1), libsane-dev:i386 (1.0.23-3ubuntu3), libpulse-dev:i386 (4.0-0ubuntu11)
+End-Date: 2016-10-11  18:44:51
+
+Start-Date: 2016-10-11  18:52:53
+Commandline: apt-get purge libxslt1-dev:i386 libxshmfence-dev:i386 libxml2-dev:i386 libv4l-dev:i386 libtinfo-dev:i386 libtasn1-6-dev
+Purge: libncurses5-dev:i386 (5.9+20140118-1ubuntu1), libtinfo-dev:i386 (5.9+20140118-1ubuntu1), libxml2-dev:i386 (2.9.1+dfsg1-3ubuntu4), libxshmfence-dev:i386 (1.1-2), libtasn1-6-dev:i386 (3.4-3), libv4l-dev:i386 (1.0.1-1), libxslt1-dev:i386 (1.1.28-2build1)
+End-Date: 2016-10-11  18:52:54
+
+Start-Date: 2016-10-11  18:53:48
+Commandline: apt-get purge libpthread-stubs0-dev:i386 libpcre3-dev:i386 libpcap0.8-dev libopenal-dev:i386 libncurses5-dev:i386 libmpg123-dev:i386
+Purge: libpcre3-dev:i386 (8.31-2ubuntu2), libpcap0.8-dev:i386 (1.5.3-2), libmpg123-dev:i386 (1.16.0-1ubuntu1), libopenal-dev:i386 (1.14-4ubuntu1), libpthread-stubs0-dev:i386 (0.3-4)
+End-Date: 2016-10-11  18:53:49
+
+Start-Date: 2016-10-11  18:54:14
+Commandline: apt-get purge libasound2-dev:i386 libasprintf-dev:i386 libavahi-client-dev libavahi-common-dev libbison-dev:i386
+Purge: libavahi-client-dev:i386 (0.6.31-4ubuntu1), libbison-dev:i386 (3.0.2.dfsg-2), bison:i386 (3.0.2.dfsg-2), libasound2-dev:i386 (1.0.27.2-3ubuntu7), libasprintf-dev:i386 (0.18.3.1-1ubuntu2), libavahi-common-dev:i386 (0.6.31-4ubuntu1)
+End-Date: 2016-10-11  18:54:15
+
+Start-Date: 2016-10-11  18:56:20
+Commandline: apt-get purge libc6-dev
+Purge: libgcrypt11-dev:i386 (1.5.3-2ubuntu4), libexpat1-dev:i386 (2.1.0-4ubuntu1), krb5-multidev:i386 (1.12+dfsg-2ubuntu4), libjpeg-turbo8-dev:i386 (1.3.0-0ubuntu2), libkrb5-dev:i386 (1.12+dfsg-2ubuntu4), libgphoto2-dev:i386 (2.5.3.1-1ubuntu2), libc6-dev:i386 (2.19-0ubuntu6), libjpeg-dev:i386 (8c-2ubuntu8), comerr-dev:i386 (2.1-1.42.9-3ubuntu1), libjpeg8-dev:i386 (8c-2ubuntu8), libexif-dev:i386 (0.6.21-1ubuntu1)
+End-Date: 2016-10-11  18:56:22
+
+Start-Date: 2016-10-11  18:56:35
+Commandline: apt-get purge linux-libc-dev:i386 libusb-1.0-0-dev:i386 libp11-kit-dev
+Purge: libp11-kit-dev:i386 (0.20.2-2ubuntu2), libusb-1.0-0-dev:i386 (1.0.17-1ubuntu2), linux-libc-dev:i386 (3.13.0-24.46)
+End-Date: 2016-10-11  18:56:35
+
+Start-Date: 2016-10-11  18:56:47
+Commandline: apt-get purge dpkg-dev
+Purge: debhelper:i386 (9.20131227ubuntu1), dpkg-dev:i386 (1.17.5ubuntu5)
+End-Date: 2016-10-11  18:56:47
+
+Start-Date: 2016-10-11  18:57:49
+Commandline: apt-get purge libcapi20-dev:i386 libdbus-1-dev:i386 libdrm-dev:i386
+Purge: libcapi20-dev:i386 (3.25+dfsg1-3.3ubuntu2), libdrm-dev:i386 (2.4.52-1), libdbus-1-dev:i386 (1.6.18-0ubuntu4)
+End-Date: 2016-10-11  18:57:50
+
+Start-Date: 2016-10-11  18:58:23
+Commandline: apt-get purge liblzma-dev:i386 libltdl-dev:i386 libldap2-dev:i386 liblcms2-dev:i386 libjbig-dev:i386 libieee1284-3-dev libgsm1-dev:i386 libgpg-error-dev libgif-dev libgettextpo-dev:i386 libgcc-4.8-dev:i386 libfl-dev:i386
+Purge: libieee1284-3-dev:i386 (0.2.11-12), libgcc-4.8-dev:i386 (4.8.2-19ubuntu1), libgsm1-dev:i386 (1.0.13-4), libldap2-dev:i386 (2.4.31-1+nmu2ubuntu8), liblzma-dev:i386 (5.1.1alpha+20120614-2ubuntu2), libgettextpo-dev:i386 (0.18.3.1-1ubuntu2), libgif-dev:i386 (4.1.6-11), libfl-dev:i386 (2.5.35-10.1ubuntu2), flex:i386 (2.5.35-10.1ubuntu2), liblcms2-dev:i386 (2.5-0ubuntu4), libjbig-dev:i386 (2.0-2ubuntu4), libltdl-dev:i386 (2.4.2-1.7ubuntu1), gcc-4.8:i386 (4.8.2-19ubuntu1), libgpg-error-dev:i386 (1.12-0.2ubuntu1)
+End-Date: 2016-10-11  18:58:24
+
+Start-Date: 2016-10-11  19:01:54
+Commandline: apt-get purge valgrind xdg-utils
+Purge: texlive-fonts-recommended:i386 (2013.20140215-1), texlive-latex-recommended:i386 (2013.20140215-1), texlive-base:i386 (2013.20140215-1), texlive-latex-base:i386 (2013.20140215-1), docbook-utils:i386 (0.6.14-3ubuntu1), jadetex:i386 (3.13-14), texlive-generic-recommended:i386 (2013.20140215-1), tipa:i386 (1.3-19), valgrind:i386 (3.10~20140411-0ubuntu1), xdg-utils:i386 (1.1.0~rc1-2ubuntu7)
+End-Date: 2016-10-11  19:01:59
+
+Start-Date: 2016-10-11  19:02:33
+Commandline: apt-get purge tex-common
+Purge: texlive-binaries:i386 (2013.20130729.30972-2build3), tex-common:i386 (4.04), luatex:i386 (0.76.0-3ubuntu1)
+End-Date: 2016-10-11  19:02:34
+
+Start-Date: 2016-10-11  19:02:44
+Commandline: apt-get purge xml-core
+Purge: docbook-to-man:i386 (2.0.0-31), sgml-data:i386 (2.0.9-1), docbook-xsl:i386 (1.78.1+dfsg-1), xml-core:i386 (0.13+nmu2), docbook:i386 (4.5-5.1ubuntu1), docbook-dsssl:i386 (1.79-7ubuntu1)
+End-Date: 2016-10-11  19:02:47
+
+Start-Date: 2016-10-11  19:23:53
+Commandline: apt-get purge patch
+Purge: patch:i386 (2.7.1-4)
+End-Date: 2016-10-11  19:23:54
+
+Start-Date: 2016-10-11  19:30:01
+Commandline: apt-get purge libgs9
+Purge: libgs9:i386 (9.10~dfsg-0ubuntu10)
+End-Date: 2016-10-11  19:30:02
+
+Start-Date: 2016-10-11  20:50:54
+Commandline: apt-get purge eject
+Purge: eject:i386 (2.1.5+deb1+cvs20081104-13.1)
+End-Date: 2016-10-11  20:50:55
+
+Start-Date: 2016-10-11  20:51:04
+Commandline: apt-get purge vim-common vim-tiny
+Purge: vim-tiny:i386 (7.4.052-1ubuntu3), vim-common:i386 (7.4.052-1ubuntu3)
+End-Date: 2016-10-11  20:51:05
+
+Start-Date: 2016-10-11  20:51:25
+Commandline: apt-get purge software-properties-common
+Purge: software-properties-common:i386 (0.92.36)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2016-10-11  20:51:25
+
+Start-Date: 2016-10-11  20:51:35
+Commandline: apt-get autoremove
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2016-10-11  20:51:35
+
+Start-Date: 2016-10-11  20:51:52
+Commandline: apt-get -f install
+End-Date: 2016-10-11  20:51:52
+
+Start-Date: 2016-10-11  20:52:27
+Commandline: apt-get purge software-properties-common
+Purge: software-properties-common:i386 (0.92.36)
+End-Date: 2016-10-11  20:52:28
+
+Start-Date: 2016-10-11  20:52:42
+Commandline: apt-get autoremove
+Remove: python3-pycurl:i386 (7.19.3-0ubuntu3), python3-dbus:i386 (1.2.0-2build2), python3-software-properties:i386 (0.92.36), python-apt-common:i386 (0.9.3.5), libcurl3-gnutls:i386 (7.35.0-1ubuntu2), libdbus-glib-1-2:i386 (0.100.2-1), python3-apt:i386 (0.9.3.5), unattended-upgrades:i386 (0.82.1ubuntu2), python3-gi:i386 (3.12.0-1)
+End-Date: 2016-10-11  20:52:43
+
+Start-Date: 2016-10-11  20:54:22
+Commandline: apt-get purge openjade
+Purge: openjade:i386 (1.4devel1-21)
+End-Date: 2016-10-11  20:54:22
+
+Start-Date: 2016-10-11  20:54:45
+Commandline: apt-get purge net-tools
+Purge: net-tools:i386 (1.60-25ubuntu2)
+End-Date: 2016-10-11  20:54:45
+
+Start-Date: 2016-10-11  20:54:59
+Commandline: apt-get purge man-db
+Purge: man-db:i386 (2.6.7.1-1)
+End-Date: 2016-10-11  20:54:59
+
+Start-Date: 2016-10-11  20:55:13
+Commandline: apt-get purge ntpdate
+Purge: ntpdate:i386 (4.2.6.p5+dfsg-3ubuntu2)
+End-Date: 2016-10-11  20:55:13
+
+Start-Date: 2016-10-11  20:59:50
+Commandline: apt-get purge login
+Purge: login:i386 (4.1.5.1-1ubuntu9)
+End-Date: 2016-10-11  20:59:50
+
+Start-Date: 2016-10-11  21:00:24
+Commandline: apt-get purge ureadahead
+Purge: ureadahead:i386 (0.100.0-16)
+End-Date: 2016-10-11  21:00:25
+
+Start-Date: 2016-10-11  21:01:28
+Commandline: apt-get purge fontforge
+Purge: fontforge:i386 (20120731.b-5)
+End-Date: 2016-10-11  21:01:32
+
+Start-Date: 2016-10-11  21:02:53
+Commandline: apt-get purge python3-gi
+Purge: python3-gi:i386 ()
+End-Date: 2016-10-11  21:02:53
+
+Start-Date: 2016-10-11  21:03:05
+Commandline: apt-get purge libcurl3-gnutls:i386 libdbus-glib-1-2:i386
+Purge: libcurl3-gnutls:i386 (), libdbus-glib-1-2:i386 ()
+End-Date: 2016-10-11  21:03:05
+
+Start-Date: 2016-10-18  19:53:25
+Commandline: apt-get install cabextract
+Install: cabextract:i386 (1.4-4)
+End-Date: 2016-10-18  19:53:25
+
+Start-Date: 2018-02-26  15:55:11
+Commandline: apt-get install software-properties-common
+Install: python3-pycurl:i386 (7.19.3-0ubuntu3, automatic), python3-dbus:i386 (1.2.0-2build2, automatic), python3-software-properties:i386 (0.92.36, automatic), python-apt-common:i386 (0.9.3.5, automatic), libcurl3-gnutls:i386 (7.35.0-1ubuntu2, automatic), libdbus-glib-1-2:i386 (0.100.2-1, automatic), python3-apt:i386 (0.9.3.5, automatic), software-properties-common:i386 (0.92.36), unattended-upgrades:i386 (0.82.1ubuntu2, automatic), python3-gi:i386 (3.12.0-1, automatic)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2018-02-26  15:55:13
+
+Start-Date: 2018-02-26  15:56:29
+Commandline: apt-get -f install
+End-Date: 2018-02-26  15:56:31
+
+Start-Date: 2018-02-26  15:58:43
+Commandline: apt-get install wine=1:2.0-0eltechs~003trusty --no-install-recommends
+Install: binfmt-support:i386 (2.1.4-1, automatic), wine:i386 (2.0-0eltechs~003trusty), wine2.0:i386 (2.0-0eltechs~003trusty, automatic), wine2.0-i386:i386 (2.0-0eltechs~003trusty, automatic)
+End-Date: 2018-02-26  15:58:47
+
+Start-Date: 2018-03-20  16:43:21
+Commandline: apt-get install wine --no-install-recommends
+Install: wine3.0-i386:i386 (3.0-0eltechs~001trusty, automatic), wine3.0:i386 (3.0-0eltechs~001trusty, automatic)
+Upgrade: wine:i386 (2.0-0eltechs~003trusty, 3.0-0eltechs~001trusty)
+Remove: wine2.0:i386 (2.0-0eltechs~003trusty), wine2.0-i386:i386 (2.0-0eltechs~003trusty)
+End-Date: 2018-03-20  16:43:28
+
+Start-Date: 2018-09-11  20:21:49
+Commandline: apt-get purge wine
+Purge: wine:i386 (3.0-0eltechs~001trusty)
+End-Date: 2018-09-11  20:21:50
+
+Start-Date: 2018-09-11  20:21:56
+Commandline: apt-get autoremove
+Remove: wine3.0-i386:i386 (3.0-0eltechs~001trusty), wine3.0:i386 (3.0-0eltechs~001trusty)
+End-Date: 2018-09-11  20:21:59
+
+Start-Date: 2018-09-11  20:27:25
+Commandline: apt-get install wine --no-upgrade --no-install-recommends
+Install: wine3.0-i386:i386 (3.0-0eltechs~001trusty, automatic), wine:i386 (3.0-0eltechs~001trusty), wine3.0:i386 (3.0-0eltechs~001trusty, automatic)
+End-Date: 2018-09-11  20:27:31
